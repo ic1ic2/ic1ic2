@@ -7,7 +7,7 @@ I'm a second year undergraduate in EE department at IITK, passionate about build
 
 🌱 I’m currently exploring the fields of Nlp and have interests in the fields of computer vision and quantum computing too.
 
-👯 I’m looking to collaborate on exciting projects on computer vision  
+👯 I’m looking to collaborate on exciting projects related to Machine Learning and Deep Learning 
 
 📫 How to reach me: aaryanp1980@gmail.com
 
